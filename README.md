@@ -72,7 +72,7 @@ All : 36
 pip install numpy
 
 Run the program:
-python matrix_calculator.py
+Matrix_Statistics_Calculator.ipynb
 Enter numbers separated by commas in the input field and click Calculate.
 
 Examples to Try
